@@ -1,0 +1,20 @@
+{
+  "name": "node-get-file-from-directory",
+  "version": "0.0.1",
+  "description": "Get the file from directory with the largest / smallest size, Last Modified or name.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "a"
+  },
+  "keywords": [
+    "file",
+    "fs"
+  ],
+  "author": "pawel112",
+  "license": "MIT",
+  "dependencies": {
+    "fs": "0.0.1-security",
+    "util": "^0.10.3"
+  }
+}
