@@ -1,9 +1,5 @@
-# Node get file-from-directory
-Get the file from directory with the largest / smallest size, last modified or name.
-
 # Readme
-
-Compare files by using protractor (is not needed SSH or FTP connection). On server use the protractor-cmp-files-server module.
+Get the file from directory with the largest / smallest size, last modified or name.
 
 # Function
 
