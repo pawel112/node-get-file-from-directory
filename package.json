@@ -1,6 +1,6 @@
 {
   "name": "node-get-file-from-directory",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Get the file from directory with the largest / smallest size, last modified or name.",
   "main": "index.js",
   "repository": {
